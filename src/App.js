@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
-import NewExpense from "./components/NewExpense/NewExpense";
-//array
 
 let Dummy_Data = [
   {
